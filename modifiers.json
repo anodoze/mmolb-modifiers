@@ -1,0 +1,1646 @@
+{
+  "ROBO": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.5,
+        "Arm": 0.5,
+        "Discipline": 0.5,
+        "Cunning": -0.5,
+        "Presence": -0.5,
+        "Speed": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.5,
+        "Deception": -0.5
+      }
+    }
+  ],
+  "Demonic": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Muscle": 0.5,
+        "Reaction": 0.5,
+        "Velocity": 0.5,
+        "Control": -0.5,
+        "Composure": -0.5,
+        "Discipline": -0.5
+      }
+    },
+    {
+      "valid_from": "2025-11-25 8:00",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.5,
+        "Control": -0.5
+      }
+    }
+  ],
+  "Angelic": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Awareness": 0.5,
+        "Control": 0.5,
+        "Discipline": 0.5,
+        "Muscle": -0.5,
+        "Reaction": -0.5,
+        "Velocity": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.5,
+        "Presence": -0.5
+      }
+    }
+  ],
+  "Water Elemental": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Contact": 0.5,
+        "Control": 0.5,
+        "Dexterity": 0.5,
+        "Muscle": -0.5,
+        "Reaction": -0.5,
+        "Velocity": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.5,
+        "Intimidation": -0.5
+      }
+    }
+  ],
+  "Earth Elemental": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Contact": 0.5,
+        "Patience": 0.5,
+        "Stamina": 0.5,
+        "Control": -0.5,
+        "Vision": -0.5,
+        "Speed": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.5,
+        "Stealth": -0.5
+      }
+    }
+  ],
+  "Fire Elemental": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Velocity": 0.5,
+        "Lift": 0.5,
+        "Speed": 0.5,
+        "Composure": -0.5,
+        "Control": -0.5,
+        "Vision": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.5,
+        "Selflessness": -0.5
+      }
+    }
+  ],
+  "Air Elemental": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.5,
+        "Aiming": 0.5,
+        "Agility": 0.5,
+        "Arm": -0.5,
+        "Muscle": -0.5,
+        "Velocity": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.5,
+        "Contact": -0.5
+      }
+    }
+  ],
+  "Draconic": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Arm": 0.5,
+        "Lift": 0.5,
+        "Presence": 0.5,
+        "Agility": -0.5,
+        "Control": -0.5,
+        "Discipline": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.5,
+        "Aiming": -0.5
+      }
+    }
+  ],
+  "Fae": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Cunning": 0.5,
+        "Dexterity": 0.5,
+        "Persuasion": 0.5,
+        "Arm": -0.5,
+        "Muscle": -0.5,
+        "Velocity": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.5,
+        "Discipline": -0.5
+      }
+    }
+  ],
+  "Giant": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Arm": 0.5,
+        "Muscle": 0.5,
+        "Stamina": 0.5,
+        "Contact": -0.5,
+        "Agility": -0.5,
+        "Control": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.5,
+        "Insight": -0.5
+      }
+    }
+  ],
+  "Undead": [
+    {
+      "valid_from": "2025-07-14T00:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Composure": 0.5,
+        "Determination": 0.5,
+        "Stamina": 0.5,
+        "Contact": -0.5,
+        "Presence": -0.5,
+        "Speed": -0.5
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.5,
+        "Speed": -0.5
+      }
+    }
+  ],
+  "Amphibian": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Speed": 0.3,
+        "Performance": 0.3,
+        "Persuasion": 0.3,
+        "Velocity": 0.3,
+        "Defiance": -0.3,
+        "Insight": -0.3,
+        "Muscle": -0.3,
+        "Presence": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.5,
+        "Aiming": -0.5
+      }
+    }
+  ],
+  "Archer's Mark": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.3,
+        "Aiming": 0.3,
+        "Vision": 0.3,
+        "Velocity": 0.3,
+        "Greed": -0.3,
+        "Intimidation": -0.3,
+        "Presence": -0.3,
+        "Stuff": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.5,
+        "Discipline": -0.5
+      }
+    }
+  ],
+  "Calculated": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Discipline": 0.3,
+        "Insight": 0.3,
+        "Control": 0.3,
+        "Accuracy": 0.3,
+        "Greed": -0.3,
+        "Guts": -0.3,
+        "Muscle": -0.3,
+        "Stamina": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.5,
+        "Cunning": -0.5
+      }
+    }
+  ],
+  "Clean": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Determination": 0.3,
+        "Discipline": 0.3,
+        "Persuasion": 0.3,
+        "Presence": 0.3,
+        "Defiance": -0.3,
+        "Insight": -0.3,
+        "Velocity": -0.3,
+        "Wisdom": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.5,
+        "Determination": -0.5
+      }
+    }
+  ],
+  "Geometry Expert": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Control": 0.3,
+        "Contact": 0.3,
+        "Insight": 0.3,
+        "Rotation": 0.3,
+        "Defiance": -0.3,
+        "Muscle": -0.3,
+        "Velocity": -0.3,
+        "Vision": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.5,
+        "Stamina": -0.5
+      }
+    }
+  ],
+  "Insectoid": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.3,
+        "Intimidation": 0.3,
+        "Muscle": 0.3,
+        "Persuasion": 0.3,
+        "Defiance": -0.3,
+        "Discipline": -0.3,
+        "Insight": -0.3,
+        "Presence": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.5,
+        "Determination": -0.5
+      }
+    }
+  ],
+  "Mer": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Control": 0.3,
+        "Determination": 0.3,
+        "Wisdom": 0.3,
+        "Stuff": 0.3,
+        "Aiming": -0.3,
+        "Guts": -0.3,
+        "Lift": -0.3,
+        "Rotation": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.5,
+        "Stealth": -0.5
+      }
+    }
+  ],
+  "One With All": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Control": 0.3,
+        "Contact": 0.3,
+        "Selflessness": 0.3,
+        "Velocity": 0.3,
+        "Determination": -0.3,
+        "Greed": -0.3,
+        "Persuasion": -0.3,
+        "Presence": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.5,
+        "Muscle": -0.5
+      }
+    }
+  ],
+  "Psychic": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.3,
+        "Persuasion": 0.3,
+        "Vision": 0.3,
+        "Wisdom": 0.3,
+        "Intimidation": -0.3,
+        "Muscle": -0.3,
+        "Stuff": -0.3,
+        "Velocity": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.5,
+        "Rotation": -0.5
+      }
+    }
+  ],
+  "Scooter": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Defiance": 0.3,
+        "Intimidation": 0.3,
+        "Speed": 0.3,
+        "Velocity": 0.3,
+        "Control": -0.3,
+        "Discipline": -0.3,
+        "Muscle": -0.3,
+        "Stamina": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.5,
+        "Discipline": -0.5
+      }
+    }
+  ],
+  "Shiny": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.3,
+        "Presence": 0.3,
+        "Insight": 0.3,
+        "Vision": 0.3,
+        "Cunning": -0.3,
+        "Guts": -0.3,
+        "Stealth": -0.3,
+        "Stuff": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.5,
+        "Performance": -0.5
+      }
+    }
+  ],
+  "Spectral": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Intimidation": 0.3,
+        "Presence": 0.3,
+        "Stealth": 0.3,
+        "Rotation": 0.3,
+        "Contact": -0.3,
+        "Guts": -0.3,
+        "Muscle": -0.3,
+        "Stuff": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.5,
+        "Contact": -0.5
+      }
+    }
+  ],
+  "Stormrider": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Lift": 0.3,
+        "Speed": 0.3,
+        "Velocity": 0.3,
+        "Stuff": 0.3,
+        "Control": -0.3,
+        "Rotation": -0.3,
+        "Stealth": -0.3,
+        "Wisdom": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.5,
+        "Control": -0.5
+      }
+    }
+  ],
+  "Tenacious Badger": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Determination": 0.3,
+        "Guts": 0.3,
+        "Muscle": 0.3,
+        "Stamina": 0.3,
+        "Defiance": -0.3,
+        "Persuasion": -0.3,
+        "Speed": -0.3,
+        "Vision": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.5,
+        "Intuition": -0.5
+      }
+    }
+  ],
+  "The Light": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Control": 0.3,
+        "Discipline": 0.3,
+        "Presence": 0.3,
+        "Vision": 0.3,
+        "Contact": -0.3,
+        "Performance": -0.3,
+        "Stuff": -0.3,
+        "Velocity": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.5,
+        "Speed": -0.5
+      }
+    }
+  ],
+  "UFO": [
+    {
+      "valid_from": "2025-07-28T15:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Contact": 0.3,
+        "Lift": 0.3,
+        "Rotation": 0.3,
+        "Stuff": 0.3,
+        "Control": -0.3,
+        "Discipline": -0.3,
+        "Stamina": -0.3,
+        "Wisdom": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.5,
+        "Greed": -0.5
+      }
+    }
+  ],
+  "Charger": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Discipline": 0.3,
+        "Intimidation": 0.3,
+        "Presence": 0.3,
+        "Velocity": 0.3,
+        "Contact": -0.3,
+        "Control": -0.3,
+        "Performance": -0.3,
+        "Stamina": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.5,
+        "Insight": -0.5
+      }
+    }
+  ],
+  "Courier": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Aiming": 0.3,
+        "Contact": 0.3,
+        "Control": 0.3,
+        "Persuasion": 0.3,
+        "Intimidation": -0.3,
+        "Muscle": -0.3,
+        "Presence": -0.3,
+        "Stuff": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.5,
+        "Stuff": -0.5
+      }
+    }
+  ],
+  "Guardian": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Lift": 0.3,
+        "Presence": 0.3,
+        "Selflessness": 0.3,
+        "Stamina": 0.3,
+        "Aiming": -0.3,
+        "Control": -0.3,
+        "Cunning": -0.3,
+        "Persuasion": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.5,
+        "Intimidation": -0.5
+      }
+    }
+  ],
+  "Loyal": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Contact": 0.3,
+        "Guts": 0.3,
+        "Presence": 0.3,
+        "Selflessness": 0.3,
+        "Accuracy": -0.3,
+        "Aiming": -0.3,
+        "Greed": -0.3,
+        "Stuff": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.5,
+        "Insight": -0.5
+      }
+    }
+  ],
+  "Majestic": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Intimidation": 0.3,
+        "Muscle": 0.3,
+        "Presence": 0.3,
+        "Stuff": 0.3,
+        "Control": -0.3,
+        "Insight": -0.3,
+        "Speed": -0.3,
+        "Rotation": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Observer": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Aiming": 0.3,
+        "Insight": 0.3,
+        "Rotation": 0.3,
+        "Stamina": 0.3,
+        "Defiance": -0.3,
+        "Determination": -0.3,
+        "Performance": -0.3,
+        "Stuff": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.5,
+        "Muscle": -0.5
+      }
+    }
+  ],
+  "Sneaky": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Cunning": 0.3,
+        "Discipline": 0.3,
+        "Defiance": 0.3,
+        "Stamina": 0.3,
+        "Contact": -0.3,
+        "Lift": -0.3,
+        "Persuasion": -0.3,
+        "Velocity": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.5,
+        "Intimidation": -0.5
+      }
+    }
+  ],
+  "Thief": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Accuracy": 0.3,
+        "Greed": 0.3,
+        "Stealth": 0.3,
+        "Stuff": 0.3,
+        "Control": -0.3,
+        "Presence": -0.3,
+        "Selflessness": -0.3,
+        "Wisdom": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.5,
+        "Wisdom": -0.5
+      }
+    }
+  ],
+  "Thoroughbred": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Performance": 0.3,
+        "Contact": 0.3,
+        "Rotation": 0.3,
+        "Velocity": 0.3,
+        "Intimidation": -0.3,
+        "Vision": -0.3,
+        "Accuracy": -0.3,
+        "Persuasion": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.5,
+        "Cunning": -0.5
+      }
+    }
+  ],
+  "Tireless": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Cunning": 0.3,
+        "Intimidation": 0.3,
+        "Contact": -0.3,
+        "Performance": -0.3,
+        "Stamina": 0.3,
+        "Velocity": 0.3,
+        "Guts": -0.3,
+        "Rotation": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.5,
+        "Guts": -0.5
+      }
+    }
+  ],
+  "Venomous": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Aiming": 0.3,
+        "Stealth": 0.3,
+        "Greed": -0.3,
+        "Determination": -0.3,
+        "Accuracy": 0.3,
+        "Stamina": 0.3,
+        "Guts": -0.3,
+        "Persuasion": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.5,
+        "Persuasion": -0.5
+      }
+    }
+  ],
+  "Wise": [
+    {
+      "valid_from": "2025-11-25T20:00:00Z",
+      "valid_until": "2026-01-11T02:00:00Z",
+      "effects": {
+        "Insight": 0.3,
+        "Wisdom": 0.3,
+        "Contact": -0.3,
+        "Speed": -0.3,
+        "Stuff": 0.3,
+        "Stamina": 0.3,
+        "Rotation": -0.3,
+        "Velocity": -0.3
+      }
+    },
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.5,
+        "Greed": -0.5
+      }
+    }
+  ],
+  "Navigator": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.5,
+        "Rotation": -0.5
+      }
+    }
+  ],
+  "Director": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Clockwork": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.5,
+        "Stamina": -0.5
+      }
+    }
+  ],
+  "Softballer": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.5,
+        "Rotation": -0.5
+      }
+    }
+  ],
+  "Hextouch": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.5,
+        "Stamina": -0.5
+      }
+    }
+  ],
+  "Miasma": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.5,
+        "Presence": -0.5
+      }
+    }
+  ],
+  "Meteor": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Cyclist": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.5,
+        "Deception": -0.5
+      }
+    }
+  ],
+  "Afterburner": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.5,
+        "Stuff": -0.5
+      }
+    }
+  ],
+  "Spotlight": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.5,
+        "Intuition": -0.5
+      }
+    }
+  ],
+  "Beacon": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.5,
+        "Control": -0.5
+      }
+    }
+  ],
+  "Headliner": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.5,
+        "Velocity": -0.5
+      }
+    }
+  ],
+  "Weaver": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.5,
+        "Stuff": -0.5
+      }
+    }
+  ],
+  "Disguised": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.5,
+        "Velocity": -0.5
+      }
+    }
+  ],
+  "Gambit": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.5,
+        "Rotation": -0.5
+      }
+    }
+  ],
+  "Confused": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Wheel": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.5,
+        "Stuff": -0.5
+      }
+    }
+  ],
+  "Shopper": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.5,
+        "Persuasion": -0.5
+      }
+    }
+  ],
+  "Cyclone": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.5,
+        "Presence": -0.5
+      }
+    }
+  ],
+  "Battery": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.5,
+        "Rotation": -0.5
+      }
+    }
+  ],
+  "Second Wind": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Hardy": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.5,
+        "Velocity": -0.5
+      }
+    }
+  ],
+  "Lionheart": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Ill": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.5,
+        "Deception": -0.5
+      }
+    }
+  ],
+  "Stoneskin": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.5,
+        "Control": -0.5
+      }
+    }
+  ],
+  "Accountant": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.5,
+        "Persuasion": -0.5
+      }
+    }
+  ],
+  "Pinpoint": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.5,
+        "Velocity": -0.5
+      }
+    }
+  ],
+  "Quarterback": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.5,
+        "Control": -0.5
+      }
+    }
+  ],
+  "Peacebroker": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.5,
+        "Defiance": -0.5
+      }
+    }
+  ],
+  "Ambassador": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.5,
+        "Guts": -0.5
+      }
+    }
+  ],
+  "Orator": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.5,
+        "Velocity": -0.5
+      }
+    }
+  ],
+  "Elvish": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.5,
+        "Persuasion": -0.5
+      }
+    }
+  ],
+  "Feral Sense": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.5,
+        "Stamina": -0.5
+      }
+    }
+  ],
+  "Seer": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.5,
+        "Presence": -0.5
+      }
+    }
+  ],
+  "Stonewall": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.5,
+        "Intuition": -0.5
+      }
+    }
+  ],
+  "Anchor": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.5,
+        "Accuracy": -0.5
+      }
+    }
+  ],
+  "Wildcard": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.5,
+        "Deception": -0.5
+      }
+    }
+  ],
+  "Arachnid": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.5,
+        "Vision": -0.5
+      }
+    }
+  ],
+  "Ogre": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.5,
+        "Wisdom": -0.5
+      }
+    }
+  ],
+  "Tusked": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.5,
+        "Performance": -0.5
+      }
+    }
+  ],
+  "Bulwark": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.5,
+        "Selflessness": -0.5
+      }
+    }
+  ],
+  "Ironclad": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.5,
+        "Greed": -0.5
+      }
+    }
+  ],
+  "Metronome": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.5,
+        "Contact": -0.5
+      }
+    }
+  ],
+  "Snowperson": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.5,
+        "Aiming": -0.5
+      }
+    }
+  ],
+  "Kite": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.5,
+        "Stealth": -0.5
+      }
+    }
+  ],
+  "Caped": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.5,
+        "Vision": -0.5
+      }
+    }
+  ],
+  "Granite": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.5,
+        "Determination": -0.5
+      }
+    }
+  ],
+  "Gorilla": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.5,
+        "Cunning": -0.5
+      }
+    }
+  ],
+  "Titan": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.5,
+        "Contact": -0.5
+      }
+    }
+  ],
+  "Deadeye": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.5,
+        "Determination": -0.5
+      }
+    }
+  ],
+  "Eagle-eye": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.5,
+        "Cunning": -0.5
+      }
+    }
+  ],
+  "Mischievous": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.5,
+        "Stealth": -0.5
+      }
+    }
+  ],
+  "Playful": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.5,
+        "Muscle": -0.5
+      }
+    }
+  ],
+  "Horizon": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.5,
+        "Wisdom": -0.5
+      }
+    }
+  ],
+  "Satellite": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.5,
+        "Muscle": -0.5
+      }
+    }
+  ],
+  "Grounded": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.5,
+        "Lift": -0.5
+      }
+    }
+  ],
+  "Sweet Tooth": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.5,
+        "Aiming": -0.5
+      }
+    }
+  ],
+  "Leaf": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.5,
+        "Intimidation": -0.5
+      }
+    }
+  ],
+  "Marathoner": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.5,
+        "Lift": -0.5
+      }
+    }
+  ],
+  "Analyst": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.5,
+        "Selflessness": -0.5
+      }
+    }
+  ],
+  "Sage": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.5,
+        "Vision": -0.5
+      }
+    }
+  ],
+  "Stargazer": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.5,
+        "Discipline": -0.5
+      }
+    }
+  ],
+  "Striker": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.5,
+        "Lift": -0.5
+      }
+    }
+  ],
+  "Techie": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.5,
+        "Intimidation": -0.5
+      }
+    }
+  ],
+  "Vampiric": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.5,
+        "Vision": -0.5
+      }
+    }
+  ],
+  "Holey": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.5,
+        "Greed": -0.5
+      }
+    }
+  ],
+  "Needle": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.5,
+        "Aiming": -0.5
+      }
+    }
+  ],
+  "Night Owl": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.5,
+        "Speed": -0.5
+      }
+    }
+  ],
+  "Kind": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.5,
+        "Discipline": -0.5
+      }
+    }
+  ],
+  "Wingmate": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.5,
+        "Lift": -0.5
+      }
+    }
+  ],
+  "Magnetic": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.5,
+        "Performance": -0.5
+      }
+    }
+  ],
+  "Excavator": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.5,
+        "Muscle": -0.5
+      }
+    }
+  ],
+  "Treasure Map": [
+    {
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.5,
+        "Vision": -0.5
+      }
+    }
+  ]
+}
