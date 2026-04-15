@@ -11,7 +11,7 @@
         "Presence": -0.5,
         "Speed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -20,7 +20,7 @@
         "Accuracy": 0.5,
         "Deception": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Demonic": [
@@ -35,7 +35,7 @@
         "Composure": -0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2025-11-25 8:00",
@@ -44,7 +44,7 @@
         "Defiance": 0.5,
         "Control": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Angelic": [
@@ -59,7 +59,7 @@
         "Reaction": -0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -68,7 +68,7 @@
         "Control": 0.5,
         "Presence": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Water Elemental": [
@@ -83,7 +83,7 @@
         "Reaction": -0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -92,7 +92,7 @@
         "Contact": 0.5,
         "Intimidation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Earth Elemental": [
@@ -107,7 +107,7 @@
         "Vision": -0.5,
         "Speed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -116,7 +116,7 @@
         "Determination": 0.5,
         "Stealth": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Fire Elemental": [
@@ -131,7 +131,7 @@
         "Control": -0.5,
         "Vision": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -140,7 +140,7 @@
         "Lift": 0.5,
         "Selflessness": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Air Elemental": [
@@ -155,7 +155,7 @@
         "Muscle": -0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -164,7 +164,7 @@
         "Aiming": 0.5,
         "Contact": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Draconic": [
@@ -179,7 +179,7 @@
         "Control": -0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -188,7 +188,7 @@
         "Muscle": 0.5,
         "Aiming": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Fae": [
@@ -203,7 +203,7 @@
         "Muscle": -0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -212,7 +212,7 @@
         "Cunning": 0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Giant": [
@@ -227,7 +227,7 @@
         "Agility": -0.5,
         "Control": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -236,7 +236,7 @@
         "Intimidation": 0.5,
         "Insight": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Undead": [
@@ -251,7 +251,7 @@
         "Presence": -0.5,
         "Speed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -260,7 +260,7 @@
         "Determination": 0.5,
         "Speed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Amphibian": [
@@ -277,7 +277,7 @@
         "Muscle": -0.3,
         "Presence": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -286,7 +286,7 @@
         "Performance": 0.5,
         "Aiming": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Archer's Mark": [
@@ -303,7 +303,7 @@
         "Presence": -0.3,
         "Stuff": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -312,7 +312,7 @@
         "Aiming": 0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Calculated": [
@@ -329,7 +329,7 @@
         "Muscle": -0.3,
         "Stamina": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -338,7 +338,7 @@
         "Discipline": 0.5,
         "Cunning": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Clean": [
@@ -355,7 +355,7 @@
         "Velocity": -0.3,
         "Wisdom": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -364,7 +364,7 @@
         "Discipline": 0.5,
         "Determination": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Geometry Expert": [
@@ -381,7 +381,7 @@
         "Velocity": -0.3,
         "Vision": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -390,7 +390,7 @@
         "Rotation": 0.5,
         "Stamina": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Insectoid": [
@@ -407,7 +407,7 @@
         "Insight": -0.3,
         "Presence": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -416,7 +416,7 @@
         "Cunning": 0.5,
         "Determination": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Mer": [
@@ -433,7 +433,7 @@
         "Lift": -0.3,
         "Rotation": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -442,7 +442,7 @@
         "Wisdom": 0.5,
         "Stealth": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "One With All": [
@@ -459,7 +459,7 @@
         "Persuasion": -0.3,
         "Presence": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -468,7 +468,7 @@
         "Contact": 0.5,
         "Muscle": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Psychic": [
@@ -485,7 +485,7 @@
         "Stuff": -0.3,
         "Velocity": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -494,7 +494,7 @@
         "Intuition": 0.5,
         "Rotation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Scooter": [
@@ -511,7 +511,7 @@
         "Muscle": -0.3,
         "Stamina": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -520,7 +520,7 @@
         "Speed": 0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Shiny": [
@@ -537,7 +537,7 @@
         "Stealth": -0.3,
         "Stuff": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -546,7 +546,7 @@
         "Vision": 0.5,
         "Performance": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Spectral": [
@@ -563,7 +563,7 @@
         "Muscle": -0.3,
         "Stuff": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -572,7 +572,7 @@
         "Stealth": 0.5,
         "Contact": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Stormrider": [
@@ -589,7 +589,7 @@
         "Stealth": -0.3,
         "Wisdom": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -598,7 +598,7 @@
         "Velocity": 0.5,
         "Control": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Tenacious Badger": [
@@ -615,7 +615,7 @@
         "Speed": -0.3,
         "Vision": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -624,7 +624,7 @@
         "Guts": 0.5,
         "Intuition": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "The Light": [
@@ -641,7 +641,7 @@
         "Stuff": -0.3,
         "Velocity": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -650,7 +650,7 @@
         "Vision": 0.5,
         "Speed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "UFO": [
@@ -667,7 +667,7 @@
         "Stamina": -0.3,
         "Wisdom": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -676,7 +676,7 @@
         "Lift": 0.5,
         "Greed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Charger": [
@@ -693,7 +693,7 @@
         "Performance": -0.3,
         "Stamina": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -702,7 +702,7 @@
         "Speed": 0.5,
         "Insight": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Courier": [
@@ -719,7 +719,7 @@
         "Presence": -0.3,
         "Stuff": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -728,7 +728,7 @@
         "Persuasion": 0.5,
         "Stuff": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Guardian": [
@@ -745,7 +745,7 @@
         "Cunning": -0.3,
         "Persuasion": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -754,7 +754,7 @@
         "Selflessness": 0.5,
         "Intimidation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Loyal": [
@@ -771,7 +771,7 @@
         "Greed": -0.3,
         "Stuff": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -780,7 +780,7 @@
         "Selflessness": 0.5,
         "Insight": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Majestic": [
@@ -797,7 +797,7 @@
         "Speed": -0.3,
         "Rotation": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -806,7 +806,7 @@
         "Presence": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Observer": [
@@ -823,7 +823,7 @@
         "Performance": -0.3,
         "Stuff": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -832,7 +832,7 @@
         "Insight": 0.5,
         "Muscle": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Sneaky": [
@@ -849,7 +849,7 @@
         "Persuasion": -0.3,
         "Velocity": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -858,7 +858,7 @@
         "Cunning": 0.5,
         "Intimidation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Thief": [
@@ -875,7 +875,7 @@
         "Selflessness": -0.3,
         "Wisdom": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -884,7 +884,7 @@
         "Greed": 0.5,
         "Wisdom": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Thoroughbred": [
@@ -901,7 +901,7 @@
         "Accuracy": -0.3,
         "Persuasion": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -910,7 +910,7 @@
         "Performance": 0.5,
         "Cunning": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Tireless": [
@@ -927,7 +927,7 @@
         "Guts": -0.3,
         "Rotation": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -936,7 +936,7 @@
         "Stamina": 0.5,
         "Guts": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Venomous": [
@@ -953,7 +953,7 @@
         "Guts": -0.3,
         "Persuasion": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -962,7 +962,7 @@
         "Stuff": 0.5,
         "Persuasion": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Wise": [
@@ -979,7 +979,7 @@
         "Speed": -0.3,
         "Velocity": -0.3
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -988,7 +988,7 @@
         "Wisdom": 0.5,
         "Greed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Navigator": [
@@ -999,7 +999,7 @@
         "Control": 0.5,
         "Rotation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Director": [
@@ -1010,7 +1010,7 @@
         "Control": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Clockwork": [
@@ -1021,7 +1021,7 @@
         "Control": 0.5,
         "Stamina": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Softballer": [
@@ -1032,7 +1032,7 @@
         "Stuff": 0.5,
         "Rotation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Hextouch": [
@@ -1043,7 +1043,7 @@
         "Stuff": 0.5,
         "Stamina": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Miasma": [
@@ -1054,7 +1054,7 @@
         "Stuff": 0.5,
         "Presence": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Meteor": [
@@ -1065,7 +1065,7 @@
         "Velocity": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Cyclist": [
@@ -1076,7 +1076,7 @@
         "Velocity": 0.5,
         "Deception": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Afterburner": [
@@ -1087,7 +1087,7 @@
         "Velocity": 0.5,
         "Stuff": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Spotlight": [
@@ -1098,7 +1098,7 @@
         "Presence": 0.5,
         "Intuition": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Beacon": [
@@ -1109,7 +1109,7 @@
         "Presence": 0.5,
         "Control": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Headliner": [
@@ -1120,7 +1120,7 @@
         "Presence": 0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Weaver": [
@@ -1131,7 +1131,7 @@
         "Deception": 0.5,
         "Stuff": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Disguised": [
@@ -1142,7 +1142,7 @@
         "Deception": 0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Gambit": [
@@ -1153,7 +1153,7 @@
         "Deception": 0.5,
         "Rotation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Confused": [
@@ -1164,7 +1164,7 @@
         "Deception": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Wheel": [
@@ -1175,7 +1175,7 @@
         "Rotation": 0.5,
         "Stuff": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Shopper": [
@@ -1186,7 +1186,7 @@
         "Rotation": 0.5,
         "Persuasion": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Cyclone": [
@@ -1197,7 +1197,7 @@
         "Rotation": 0.5,
         "Presence": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Battery": [
@@ -1208,7 +1208,7 @@
         "Stamina": 0.5,
         "Rotation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Second Wind": [
@@ -1219,7 +1219,7 @@
         "Stamina": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Hardy": [
@@ -1230,7 +1230,7 @@
         "Stamina": 0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Lionheart": [
@@ -1241,7 +1241,7 @@
         "Guts": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Ill": [
@@ -1252,7 +1252,7 @@
         "Guts": 0.5,
         "Deception": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Stoneskin": [
@@ -1263,7 +1263,7 @@
         "Guts": 0.5,
         "Control": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Accountant": [
@@ -1274,7 +1274,7 @@
         "Accuracy": 0.5,
         "Persuasion": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Pinpoint": [
@@ -1285,7 +1285,7 @@
         "Accuracy": 0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Quarterback": [
@@ -1296,7 +1296,7 @@
         "Accuracy": 0.5,
         "Control": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Peacebroker": [
@@ -1307,7 +1307,7 @@
         "Persuasion": 0.5,
         "Defiance": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Ambassador": [
@@ -1318,7 +1318,7 @@
         "Persuasion": 0.5,
         "Guts": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Orator": [
@@ -1329,7 +1329,7 @@
         "Persuasion": 0.5,
         "Velocity": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Elvish": [
@@ -1340,7 +1340,7 @@
         "Intuition": 0.5,
         "Persuasion": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Feral Sense": [
@@ -1351,7 +1351,7 @@
         "Intuition": 0.5,
         "Stamina": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Seer": [
@@ -1362,7 +1362,7 @@
         "Intuition": 0.5,
         "Presence": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Stonewall": [
@@ -1373,7 +1373,7 @@
         "Defiance": 0.5,
         "Intuition": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Anchor": [
@@ -1384,7 +1384,7 @@
         "Defiance": 0.5,
         "Accuracy": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Wildcard": [
@@ -1395,7 +1395,7 @@
         "Defiance": 0.5,
         "Deception": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Arachnid": [
@@ -1406,7 +1406,7 @@
         "Intimidation": 0.5,
         "Vision": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Ogre": [
@@ -1417,7 +1417,7 @@
         "Intimidation": 0.5,
         "Wisdom": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Tusked": [
@@ -1428,7 +1428,7 @@
         "Intimidation": 0.5,
         "Performance": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Bulwark": [
@@ -1439,7 +1439,7 @@
         "Determination": 0.5,
         "Selflessness": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Ironclad": [
@@ -1450,7 +1450,7 @@
         "Determination": 0.5,
         "Greed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Metronome": [
@@ -1461,7 +1461,7 @@
         "Discipline": 0.5,
         "Contact": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Snowperson": [
@@ -1472,7 +1472,7 @@
         "Discipline": 0.5,
         "Aiming": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Kite": [
@@ -1483,7 +1483,7 @@
         "Lift": 0.5,
         "Stealth": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Caped": [
@@ -1494,7 +1494,7 @@
         "Lift": 0.5,
         "Vision": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Granite": [
@@ -1505,7 +1505,7 @@
         "Muscle": 0.5,
         "Determination": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Gorilla": [
@@ -1516,7 +1516,7 @@
         "Muscle": 0.5,
         "Cunning": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Titan": [
@@ -1527,7 +1527,7 @@
         "Muscle": 0.5,
         "Contact": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Deadeye": [
@@ -1538,7 +1538,7 @@
         "Aiming": 0.5,
         "Determination": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Eagle-eye": [
@@ -1549,7 +1549,7 @@
         "Aiming": 0.5,
         "Cunning": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Mischievous": [
@@ -1560,7 +1560,7 @@
         "Performance": 0.5,
         "Stealth": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Playful": [
@@ -1571,7 +1571,7 @@
         "Performance": 0.5,
         "Muscle": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Horizon": [
@@ -1582,7 +1582,7 @@
         "Vision": 0.5,
         "Wisdom": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Satellite": [
@@ -1593,7 +1593,7 @@
         "Vision": 0.5,
         "Muscle": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Grounded": [
@@ -1604,7 +1604,7 @@
         "Contact": 0.5,
         "Lift": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Sweet Tooth": [
@@ -1615,7 +1615,7 @@
         "Contact": 0.5,
         "Aiming": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Leaf": [
@@ -1626,7 +1626,7 @@
         "Speed": 0.5,
         "Intimidation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Marathoner": [
@@ -1637,7 +1637,7 @@
         "Speed": 0.5,
         "Lift": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Analyst": [
@@ -1648,7 +1648,7 @@
         "Wisdom": 0.5,
         "Selflessness": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Sage": [
@@ -1659,7 +1659,7 @@
         "Wisdom": 0.5,
         "Vision": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Stargazer": [
@@ -1670,7 +1670,7 @@
         "Insight": 0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Striker": [
@@ -1681,7 +1681,7 @@
         "Insight": 0.5,
         "Lift": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Techie": [
@@ -1692,7 +1692,7 @@
         "Insight": 0.5,
         "Intimidation": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Vampiric": [
@@ -1703,7 +1703,7 @@
         "Cunning": 0.5,
         "Vision": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Holey": [
@@ -1714,7 +1714,7 @@
         "Stealth": 0.5,
         "Greed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Needle": [
@@ -1725,7 +1725,7 @@
         "Stealth": 0.5,
         "Aiming": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Night Owl": [
@@ -1736,7 +1736,7 @@
         "Stealth": 0.5,
         "Speed": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Kind": [
@@ -1747,7 +1747,7 @@
         "Selflessness": 0.5,
         "Discipline": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Wingmate": [
@@ -1758,7 +1758,7 @@
         "Selflessness": 0.5,
         "Lift": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Magnetic": [
@@ -1769,7 +1769,7 @@
         "Greed": 0.5,
         "Performance": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Excavator": [
@@ -1780,7 +1780,7 @@
         "Greed": 0.5,
         "Muscle": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Treasure Map": [
@@ -1791,7 +1791,7 @@
         "Greed": 0.5,
         "Vision": -0.5
       },
-      "bonus_type": "multiplier"
+      "bonus_type": "Multiplier"
     }
   ],
   "Celestial Infusion": [
@@ -1802,7 +1802,7 @@
         "Muscle": 0.25,
         "Presence": 0.25
       },
-      "bonus_type": "flat"
+      "bonus_type": "FlatBonus"
     }
   ],
   "Celestial Infusion II": [
@@ -1813,7 +1813,7 @@
         "Muscle": 0.5,
         "Presence": 0.5
       },
-      "bonus_type": "flat"
+      "bonus_type": "FlatBonus"
     }
   ],
   "Celestial Infusion III": [
@@ -1824,7 +1824,7 @@
         "Muscle": 1.0,
         "Presence": 1.0
       },
-      "bonus_type": "flat"
+      "bonus_type": "FlatBonus"
     }
   ]
 }
