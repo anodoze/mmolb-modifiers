@@ -10,7 +10,8 @@
         "Cunning": -0.5,
         "Presence": -0.5,
         "Speed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -18,7 +19,8 @@
       "effects": {
         "Accuracy": 0.5,
         "Deception": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Demonic": [
@@ -32,7 +34,8 @@
         "Control": -0.5,
         "Composure": -0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2025-11-25 8:00",
@@ -40,7 +43,8 @@
       "effects": {
         "Defiance": 0.5,
         "Control": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Angelic": [
@@ -54,7 +58,8 @@
         "Muscle": -0.5,
         "Reaction": -0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -62,7 +67,8 @@
       "effects": {
         "Control": 0.5,
         "Presence": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Water Elemental": [
@@ -76,7 +82,8 @@
         "Muscle": -0.5,
         "Reaction": -0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -84,7 +91,8 @@
       "effects": {
         "Contact": 0.5,
         "Intimidation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Earth Elemental": [
@@ -98,7 +106,8 @@
         "Control": -0.5,
         "Vision": -0.5,
         "Speed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -106,7 +115,8 @@
       "effects": {
         "Determination": 0.5,
         "Stealth": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Fire Elemental": [
@@ -120,7 +130,8 @@
         "Composure": -0.5,
         "Control": -0.5,
         "Vision": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -128,7 +139,8 @@
       "effects": {
         "Lift": 0.5,
         "Selflessness": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Air Elemental": [
@@ -142,7 +154,8 @@
         "Arm": -0.5,
         "Muscle": -0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -150,7 +163,8 @@
       "effects": {
         "Aiming": 0.5,
         "Contact": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Draconic": [
@@ -164,7 +178,8 @@
         "Agility": -0.5,
         "Control": -0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -172,7 +187,8 @@
       "effects": {
         "Muscle": 0.5,
         "Aiming": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Fae": [
@@ -186,7 +202,8 @@
         "Arm": -0.5,
         "Muscle": -0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -194,7 +211,8 @@
       "effects": {
         "Cunning": 0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Giant": [
@@ -208,7 +226,8 @@
         "Contact": -0.5,
         "Agility": -0.5,
         "Control": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -216,7 +235,8 @@
       "effects": {
         "Intimidation": 0.5,
         "Insight": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Undead": [
@@ -230,7 +250,8 @@
         "Contact": -0.5,
         "Presence": -0.5,
         "Speed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -238,7 +259,8 @@
       "effects": {
         "Determination": 0.5,
         "Speed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Amphibian": [
@@ -254,7 +276,8 @@
         "Insight": -0.3,
         "Muscle": -0.3,
         "Presence": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -262,7 +285,8 @@
       "effects": {
         "Performance": 0.5,
         "Aiming": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Archer's Mark": [
@@ -278,7 +302,8 @@
         "Intimidation": -0.3,
         "Presence": -0.3,
         "Stuff": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -286,7 +311,8 @@
       "effects": {
         "Aiming": 0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Calculated": [
@@ -302,7 +328,8 @@
         "Guts": -0.3,
         "Muscle": -0.3,
         "Stamina": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -310,7 +337,8 @@
       "effects": {
         "Discipline": 0.5,
         "Cunning": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Clean": [
@@ -326,7 +354,8 @@
         "Insight": -0.3,
         "Velocity": -0.3,
         "Wisdom": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -334,7 +363,8 @@
       "effects": {
         "Discipline": 0.5,
         "Determination": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Geometry Expert": [
@@ -350,7 +380,8 @@
         "Muscle": -0.3,
         "Velocity": -0.3,
         "Vision": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -358,7 +389,8 @@
       "effects": {
         "Rotation": 0.5,
         "Stamina": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Insectoid": [
@@ -374,7 +406,8 @@
         "Discipline": -0.3,
         "Insight": -0.3,
         "Presence": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -382,7 +415,8 @@
       "effects": {
         "Cunning": 0.5,
         "Determination": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Mer": [
@@ -398,7 +432,8 @@
         "Guts": -0.3,
         "Lift": -0.3,
         "Rotation": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -406,7 +441,8 @@
       "effects": {
         "Wisdom": 0.5,
         "Stealth": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "One With All": [
@@ -422,7 +458,8 @@
         "Greed": -0.3,
         "Persuasion": -0.3,
         "Presence": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -430,7 +467,8 @@
       "effects": {
         "Contact": 0.5,
         "Muscle": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Psychic": [
@@ -446,7 +484,8 @@
         "Muscle": -0.3,
         "Stuff": -0.3,
         "Velocity": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -454,7 +493,8 @@
       "effects": {
         "Intuition": 0.5,
         "Rotation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Scooter": [
@@ -470,7 +510,8 @@
         "Discipline": -0.3,
         "Muscle": -0.3,
         "Stamina": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -478,7 +519,8 @@
       "effects": {
         "Speed": 0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Shiny": [
@@ -494,7 +536,8 @@
         "Guts": -0.3,
         "Stealth": -0.3,
         "Stuff": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -502,7 +545,8 @@
       "effects": {
         "Vision": 0.5,
         "Performance": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Spectral": [
@@ -518,7 +562,8 @@
         "Guts": -0.3,
         "Muscle": -0.3,
         "Stuff": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -526,7 +571,8 @@
       "effects": {
         "Stealth": 0.5,
         "Contact": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Stormrider": [
@@ -542,7 +588,8 @@
         "Rotation": -0.3,
         "Stealth": -0.3,
         "Wisdom": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -550,7 +597,8 @@
       "effects": {
         "Velocity": 0.5,
         "Control": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Tenacious Badger": [
@@ -566,7 +614,8 @@
         "Persuasion": -0.3,
         "Speed": -0.3,
         "Vision": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -574,7 +623,8 @@
       "effects": {
         "Guts": 0.5,
         "Intuition": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "The Light": [
@@ -590,7 +640,8 @@
         "Performance": -0.3,
         "Stuff": -0.3,
         "Velocity": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -598,7 +649,8 @@
       "effects": {
         "Vision": 0.5,
         "Speed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "UFO": [
@@ -614,7 +666,8 @@
         "Discipline": -0.3,
         "Stamina": -0.3,
         "Wisdom": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -622,7 +675,8 @@
       "effects": {
         "Lift": 0.5,
         "Greed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Charger": [
@@ -638,7 +692,8 @@
         "Control": -0.3,
         "Performance": -0.3,
         "Stamina": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -646,7 +701,8 @@
       "effects": {
         "Speed": 0.5,
         "Insight": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Courier": [
@@ -662,7 +718,8 @@
         "Muscle": -0.3,
         "Presence": -0.3,
         "Stuff": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -670,7 +727,8 @@
       "effects": {
         "Persuasion": 0.5,
         "Stuff": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Guardian": [
@@ -686,7 +744,8 @@
         "Control": -0.3,
         "Cunning": -0.3,
         "Persuasion": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -694,7 +753,8 @@
       "effects": {
         "Selflessness": 0.5,
         "Intimidation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Loyal": [
@@ -710,7 +770,8 @@
         "Aiming": -0.3,
         "Greed": -0.3,
         "Stuff": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -718,7 +779,8 @@
       "effects": {
         "Selflessness": 0.5,
         "Insight": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Majestic": [
@@ -734,7 +796,8 @@
         "Insight": -0.3,
         "Speed": -0.3,
         "Rotation": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -742,7 +805,8 @@
       "effects": {
         "Presence": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Observer": [
@@ -758,7 +822,8 @@
         "Determination": -0.3,
         "Performance": -0.3,
         "Stuff": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -766,7 +831,8 @@
       "effects": {
         "Insight": 0.5,
         "Muscle": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Sneaky": [
@@ -782,7 +848,8 @@
         "Lift": -0.3,
         "Persuasion": -0.3,
         "Velocity": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -790,7 +857,8 @@
       "effects": {
         "Cunning": 0.5,
         "Intimidation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Thief": [
@@ -806,7 +874,8 @@
         "Presence": -0.3,
         "Selflessness": -0.3,
         "Wisdom": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -814,7 +883,8 @@
       "effects": {
         "Greed": 0.5,
         "Wisdom": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Thoroughbred": [
@@ -830,7 +900,8 @@
         "Vision": -0.3,
         "Accuracy": -0.3,
         "Persuasion": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -838,7 +909,8 @@
       "effects": {
         "Performance": 0.5,
         "Cunning": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Tireless": [
@@ -848,13 +920,14 @@
       "effects": {
         "Cunning": 0.3,
         "Intimidation": 0.3,
-        "Contact": -0.3,
-        "Performance": -0.3,
         "Stamina": 0.3,
         "Velocity": 0.3,
+        "Contact": -0.3,
+        "Performance": -0.3,
         "Guts": -0.3,
         "Rotation": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -862,7 +935,8 @@
       "effects": {
         "Stamina": 0.5,
         "Guts": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Venomous": [
@@ -870,15 +944,16 @@
       "valid_from": "2025-11-25T20:00:00Z",
       "valid_until": "2026-01-11T02:00:00Z",
       "effects": {
+        "Accuracy": 0.3,
         "Aiming": 0.3,
+        "Stamina": 0.3,
         "Stealth": 0.3,
         "Greed": -0.3,
         "Determination": -0.3,
-        "Accuracy": 0.3,
-        "Stamina": 0.3,
         "Guts": -0.3,
         "Persuasion": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -886,7 +961,8 @@
       "effects": {
         "Stuff": 0.5,
         "Persuasion": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Wise": [
@@ -895,14 +971,15 @@
       "valid_until": "2026-01-11T02:00:00Z",
       "effects": {
         "Insight": 0.3,
-        "Wisdom": 0.3,
-        "Contact": -0.3,
-        "Speed": -0.3,
         "Stuff": 0.3,
         "Stamina": 0.3,
+        "Wisdom": 0.3,
+        "Contact": -0.3,
         "Rotation": -0.3,
+        "Speed": -0.3,
         "Velocity": -0.3
-      }
+      },
+      "bonus_type": "multiplier"
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
@@ -910,7 +987,8 @@
       "effects": {
         "Wisdom": 0.5,
         "Greed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Navigator": [
@@ -920,7 +998,8 @@
       "effects": {
         "Control": 0.5,
         "Rotation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Director": [
@@ -930,7 +1009,8 @@
       "effects": {
         "Control": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Clockwork": [
@@ -940,7 +1020,8 @@
       "effects": {
         "Control": 0.5,
         "Stamina": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Softballer": [
@@ -950,7 +1031,8 @@
       "effects": {
         "Stuff": 0.5,
         "Rotation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Hextouch": [
@@ -960,7 +1042,8 @@
       "effects": {
         "Stuff": 0.5,
         "Stamina": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Miasma": [
@@ -970,7 +1053,8 @@
       "effects": {
         "Stuff": 0.5,
         "Presence": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Meteor": [
@@ -980,7 +1064,8 @@
       "effects": {
         "Velocity": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Cyclist": [
@@ -990,7 +1075,8 @@
       "effects": {
         "Velocity": 0.5,
         "Deception": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Afterburner": [
@@ -1000,7 +1086,8 @@
       "effects": {
         "Velocity": 0.5,
         "Stuff": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Spotlight": [
@@ -1010,7 +1097,8 @@
       "effects": {
         "Presence": 0.5,
         "Intuition": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Beacon": [
@@ -1020,7 +1108,8 @@
       "effects": {
         "Presence": 0.5,
         "Control": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Headliner": [
@@ -1030,7 +1119,8 @@
       "effects": {
         "Presence": 0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Weaver": [
@@ -1040,7 +1130,8 @@
       "effects": {
         "Deception": 0.5,
         "Stuff": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Disguised": [
@@ -1050,7 +1141,8 @@
       "effects": {
         "Deception": 0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Gambit": [
@@ -1060,7 +1152,8 @@
       "effects": {
         "Deception": 0.5,
         "Rotation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Confused": [
@@ -1070,7 +1163,8 @@
       "effects": {
         "Deception": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Wheel": [
@@ -1080,7 +1174,8 @@
       "effects": {
         "Rotation": 0.5,
         "Stuff": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Shopper": [
@@ -1090,7 +1185,8 @@
       "effects": {
         "Rotation": 0.5,
         "Persuasion": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Cyclone": [
@@ -1100,7 +1196,8 @@
       "effects": {
         "Rotation": 0.5,
         "Presence": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Battery": [
@@ -1110,7 +1207,8 @@
       "effects": {
         "Stamina": 0.5,
         "Rotation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Second Wind": [
@@ -1120,7 +1218,8 @@
       "effects": {
         "Stamina": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Hardy": [
@@ -1130,7 +1229,8 @@
       "effects": {
         "Stamina": 0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Lionheart": [
@@ -1140,7 +1240,8 @@
       "effects": {
         "Guts": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Ill": [
@@ -1150,7 +1251,8 @@
       "effects": {
         "Guts": 0.5,
         "Deception": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Stoneskin": [
@@ -1160,7 +1262,8 @@
       "effects": {
         "Guts": 0.5,
         "Control": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Accountant": [
@@ -1170,7 +1273,8 @@
       "effects": {
         "Accuracy": 0.5,
         "Persuasion": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Pinpoint": [
@@ -1180,7 +1284,8 @@
       "effects": {
         "Accuracy": 0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Quarterback": [
@@ -1190,7 +1295,8 @@
       "effects": {
         "Accuracy": 0.5,
         "Control": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Peacebroker": [
@@ -1200,7 +1306,8 @@
       "effects": {
         "Persuasion": 0.5,
         "Defiance": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Ambassador": [
@@ -1210,7 +1317,8 @@
       "effects": {
         "Persuasion": 0.5,
         "Guts": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Orator": [
@@ -1220,7 +1328,8 @@
       "effects": {
         "Persuasion": 0.5,
         "Velocity": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Elvish": [
@@ -1230,7 +1339,8 @@
       "effects": {
         "Intuition": 0.5,
         "Persuasion": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Feral Sense": [
@@ -1240,7 +1350,8 @@
       "effects": {
         "Intuition": 0.5,
         "Stamina": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Seer": [
@@ -1250,7 +1361,8 @@
       "effects": {
         "Intuition": 0.5,
         "Presence": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Stonewall": [
@@ -1260,7 +1372,8 @@
       "effects": {
         "Defiance": 0.5,
         "Intuition": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Anchor": [
@@ -1270,7 +1383,8 @@
       "effects": {
         "Defiance": 0.5,
         "Accuracy": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Wildcard": [
@@ -1280,7 +1394,8 @@
       "effects": {
         "Defiance": 0.5,
         "Deception": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Arachnid": [
@@ -1290,7 +1405,8 @@
       "effects": {
         "Intimidation": 0.5,
         "Vision": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Ogre": [
@@ -1300,7 +1416,8 @@
       "effects": {
         "Intimidation": 0.5,
         "Wisdom": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Tusked": [
@@ -1310,7 +1427,8 @@
       "effects": {
         "Intimidation": 0.5,
         "Performance": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Bulwark": [
@@ -1320,7 +1438,8 @@
       "effects": {
         "Determination": 0.5,
         "Selflessness": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Ironclad": [
@@ -1330,7 +1449,8 @@
       "effects": {
         "Determination": 0.5,
         "Greed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Metronome": [
@@ -1340,7 +1460,8 @@
       "effects": {
         "Discipline": 0.5,
         "Contact": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Snowperson": [
@@ -1350,7 +1471,8 @@
       "effects": {
         "Discipline": 0.5,
         "Aiming": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Kite": [
@@ -1360,7 +1482,8 @@
       "effects": {
         "Lift": 0.5,
         "Stealth": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Caped": [
@@ -1370,7 +1493,8 @@
       "effects": {
         "Lift": 0.5,
         "Vision": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Granite": [
@@ -1380,7 +1504,8 @@
       "effects": {
         "Muscle": 0.5,
         "Determination": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Gorilla": [
@@ -1390,7 +1515,8 @@
       "effects": {
         "Muscle": 0.5,
         "Cunning": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Titan": [
@@ -1400,7 +1526,8 @@
       "effects": {
         "Muscle": 0.5,
         "Contact": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Deadeye": [
@@ -1410,7 +1537,8 @@
       "effects": {
         "Aiming": 0.5,
         "Determination": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Eagle-eye": [
@@ -1420,7 +1548,8 @@
       "effects": {
         "Aiming": 0.5,
         "Cunning": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Mischievous": [
@@ -1430,7 +1559,8 @@
       "effects": {
         "Performance": 0.5,
         "Stealth": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Playful": [
@@ -1440,7 +1570,8 @@
       "effects": {
         "Performance": 0.5,
         "Muscle": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Horizon": [
@@ -1450,7 +1581,8 @@
       "effects": {
         "Vision": 0.5,
         "Wisdom": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Satellite": [
@@ -1460,7 +1592,8 @@
       "effects": {
         "Vision": 0.5,
         "Muscle": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Grounded": [
@@ -1470,7 +1603,8 @@
       "effects": {
         "Contact": 0.5,
         "Lift": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Sweet Tooth": [
@@ -1480,7 +1614,8 @@
       "effects": {
         "Contact": 0.5,
         "Aiming": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Leaf": [
@@ -1490,7 +1625,8 @@
       "effects": {
         "Speed": 0.5,
         "Intimidation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Marathoner": [
@@ -1500,7 +1636,8 @@
       "effects": {
         "Speed": 0.5,
         "Lift": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Analyst": [
@@ -1510,7 +1647,8 @@
       "effects": {
         "Wisdom": 0.5,
         "Selflessness": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Sage": [
@@ -1520,7 +1658,8 @@
       "effects": {
         "Wisdom": 0.5,
         "Vision": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Stargazer": [
@@ -1530,7 +1669,8 @@
       "effects": {
         "Insight": 0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Striker": [
@@ -1540,7 +1680,8 @@
       "effects": {
         "Insight": 0.5,
         "Lift": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Techie": [
@@ -1550,7 +1691,8 @@
       "effects": {
         "Insight": 0.5,
         "Intimidation": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Vampiric": [
@@ -1560,7 +1702,8 @@
       "effects": {
         "Cunning": 0.5,
         "Vision": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Holey": [
@@ -1570,7 +1713,8 @@
       "effects": {
         "Stealth": 0.5,
         "Greed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Needle": [
@@ -1580,7 +1724,8 @@
       "effects": {
         "Stealth": 0.5,
         "Aiming": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Night Owl": [
@@ -1590,7 +1735,8 @@
       "effects": {
         "Stealth": 0.5,
         "Speed": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Kind": [
@@ -1600,7 +1746,8 @@
       "effects": {
         "Selflessness": 0.5,
         "Discipline": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Wingmate": [
@@ -1610,7 +1757,8 @@
       "effects": {
         "Selflessness": 0.5,
         "Lift": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Magnetic": [
@@ -1620,7 +1768,8 @@
       "effects": {
         "Greed": 0.5,
         "Performance": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Excavator": [
@@ -1630,7 +1779,8 @@
       "effects": {
         "Greed": 0.5,
         "Muscle": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
     }
   ],
   "Treasure Map": [
@@ -1640,7 +1790,41 @@
       "effects": {
         "Greed": 0.5,
         "Vision": -0.5
-      }
+      },
+      "bonus_type": "multiplier"
+    }
+  ],
+  "Celestial Infusion": [
+    {
+      "valid_from": "",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.25,
+        "Presence": 0.25
+      },
+      "bonus_type": "flat"
+    }
+  ],
+  "Celestial Infusion II": [
+    {
+      "valid_from": "",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.5,
+        "Presence": 0.5
+      },
+      "bonus_type": "flat"
+    }
+  ],
+  "Celestial Infusion III": [
+    {
+      "valid_from": "",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 1.0,
+        "Presence": 1.0
+      },
+      "bonus_type": "flat"
     }
   ]
 }
