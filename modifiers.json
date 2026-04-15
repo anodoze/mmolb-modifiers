@@ -1796,7 +1796,7 @@
   ],
   "Celestial Infusion": [
     {
-      "valid_from": "",
+      "valid_from": "2025-06-09T11:00:00.000Z",
       "valid_until": null,
       "effects": {
         "Muscle": 0.25,
@@ -1807,7 +1807,7 @@
   ],
   "Celestial Infusion II": [
     {
-      "valid_from": "",
+      "valid_from": "2025-06-09T11:00:00.000Z",
       "valid_until": null,
       "effects": {
         "Muscle": 0.5,
@@ -1818,7 +1818,7 @@
   ],
   "Celestial Infusion III": [
     {
-      "valid_from": "",
+      "valid_from": "2025-06-09T11:00:00.000Z",
       "valid_until": null,
       "effects": {
         "Muscle": 1.0,
