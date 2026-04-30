@@ -15,10 +15,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Accuracy": 0.5,
         "Deception": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.25,
+        "Deception": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -38,11 +47,20 @@
       "bonus_type": "Multiplier"
     },
     {
-      "valid_from": "2025-11-25 8:00",
-      "valid_until": null,
+      "valid_from": "2026-01-11T02:00:00Z",
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Defiance": 0.5,
         "Control": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.25,
+        "Control": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -63,10 +81,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Control": 0.5,
         "Presence": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.25,
+        "Presence": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -87,10 +114,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Contact": 0.5,
         "Intimidation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.25,
+        "Intimidation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -111,10 +147,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Determination": 0.5,
         "Stealth": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.25,
+        "Stealth": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -135,10 +180,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Lift": 0.5,
         "Selflessness": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.25,
+        "Selflessness": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -159,10 +213,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Aiming": 0.5,
         "Contact": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.25,
+        "Contact": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -183,10 +246,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Muscle": 0.5,
         "Aiming": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.25,
+        "Aiming": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -207,10 +279,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Cunning": 0.5,
         "Discipline": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.25,
+        "Discipline": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -231,10 +312,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intimidation": 0.5,
         "Insight": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.25,
+        "Insight": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -255,10 +345,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Determination": 0.5,
         "Speed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.25,
+        "Speed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -281,10 +380,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Performance": 0.5,
         "Aiming": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.25,
+        "Aiming": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -307,10 +415,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Aiming": 0.5,
         "Discipline": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.25,
+        "Discipline": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -333,10 +450,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Discipline": 0.5,
         "Cunning": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.25,
+        "Cunning": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -359,10 +485,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Discipline": 0.5,
         "Determination": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.25,
+        "Determination": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -385,10 +520,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Rotation": 0.5,
         "Stamina": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.25,
+        "Stamina": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -411,10 +555,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Cunning": 0.5,
         "Determination": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.25,
+        "Determination": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -437,10 +590,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Wisdom": 0.5,
         "Stealth": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.25,
+        "Stealth": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -463,10 +625,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Contact": 0.5,
         "Muscle": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.25,
+        "Muscle": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -489,10 +660,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intuition": 0.5,
         "Rotation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.25,
+        "Rotation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -515,10 +695,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Speed": 0.5,
         "Discipline": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.25,
+        "Discipline": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -541,10 +730,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Vision": 0.5,
         "Performance": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.25,
+        "Performance": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -567,10 +765,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stealth": 0.5,
         "Contact": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.25,
+        "Contact": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -593,10 +800,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Velocity": 0.5,
         "Control": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.25,
+        "Control": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -619,10 +835,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Guts": 0.5,
         "Intuition": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.25,
+        "Intuition": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -645,10 +870,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Vision": 0.5,
         "Speed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.25,
+        "Speed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -671,10 +905,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Lift": 0.5,
         "Greed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.25,
+        "Greed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -697,10 +940,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Speed": 0.5,
         "Insight": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.25,
+        "Insight": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -723,10 +975,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Persuasion": 0.5,
         "Stuff": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.25,
+        "Stuff": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -749,10 +1010,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Selflessness": 0.5,
         "Intimidation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.25,
+        "Intimidation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -775,10 +1045,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Selflessness": 0.5,
         "Insight": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.25,
+        "Insight": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -801,10 +1080,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Presence": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -827,10 +1115,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Insight": 0.5,
         "Muscle": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.25,
+        "Muscle": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -853,10 +1150,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Cunning": 0.5,
         "Intimidation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.25,
+        "Intimidation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -879,10 +1185,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Greed": 0.5,
         "Wisdom": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.25,
+        "Wisdom": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -905,10 +1220,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Performance": 0.5,
         "Cunning": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.25,
+        "Cunning": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -931,10 +1255,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stamina": 0.5,
         "Guts": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.25,
+        "Guts": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -957,10 +1290,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stuff": 0.5,
         "Persuasion": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.25,
+        "Persuasion": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -983,10 +1325,19 @@
     },
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Wisdom": 0.5,
         "Greed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.25,
+        "Greed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -994,10 +1345,19 @@
   "Navigator": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Control": 0.5,
         "Rotation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.25,
+        "Rotation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1005,10 +1365,19 @@
   "Director": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Control": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1016,10 +1385,19 @@
   "Clockwork": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Control": 0.5,
         "Stamina": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Control": 0.25,
+        "Stamina": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1027,10 +1405,19 @@
   "Softballer": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stuff": 0.5,
         "Rotation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.25,
+        "Rotation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1038,10 +1425,19 @@
   "Hextouch": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stuff": 0.5,
         "Stamina": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.25,
+        "Stamina": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1049,10 +1445,19 @@
   "Miasma": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stuff": 0.5,
         "Presence": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stuff": 0.25,
+        "Presence": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1060,10 +1465,19 @@
   "Meteor": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Velocity": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1071,10 +1485,19 @@
   "Cyclist": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Velocity": 0.5,
         "Deception": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.25,
+        "Deception": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1082,10 +1505,19 @@
   "Afterburner": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Velocity": 0.5,
         "Stuff": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Velocity": 0.25,
+        "Stuff": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1093,10 +1525,19 @@
   "Spotlight": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Presence": 0.5,
         "Intuition": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.25,
+        "Intuition": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1104,10 +1545,19 @@
   "Beacon": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Presence": 0.5,
         "Control": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.25,
+        "Control": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1115,10 +1565,19 @@
   "Headliner": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Presence": 0.5,
         "Velocity": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Presence": 0.25,
+        "Velocity": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1126,10 +1585,19 @@
   "Weaver": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Deception": 0.5,
         "Stuff": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.25,
+        "Stuff": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1137,10 +1605,19 @@
   "Disguised": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Deception": 0.5,
         "Velocity": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.25,
+        "Velocity": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1148,10 +1625,19 @@
   "Gambit": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Deception": 0.5,
         "Rotation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.25,
+        "Rotation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1159,10 +1645,19 @@
   "Confused": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Deception": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Deception": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1170,10 +1665,19 @@
   "Wheel": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Rotation": 0.5,
         "Stuff": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.25,
+        "Stuff": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1181,10 +1685,19 @@
   "Shopper": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Rotation": 0.5,
         "Persuasion": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.25,
+        "Persuasion": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1192,10 +1705,19 @@
   "Cyclone": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Rotation": 0.5,
         "Presence": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Rotation": 0.25,
+        "Presence": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1203,10 +1725,19 @@
   "Battery": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stamina": 0.5,
         "Rotation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.25,
+        "Rotation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1214,10 +1745,19 @@
   "Second Wind": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stamina": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1225,10 +1765,19 @@
   "Hardy": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stamina": 0.5,
         "Velocity": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stamina": 0.25,
+        "Velocity": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1236,10 +1785,19 @@
   "Lionheart": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Guts": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1247,10 +1805,19 @@
   "Ill": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Guts": 0.5,
         "Deception": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.25,
+        "Deception": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1258,10 +1825,19 @@
   "Stoneskin": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Guts": 0.5,
         "Control": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Guts": 0.25,
+        "Control": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1269,10 +1845,19 @@
   "Accountant": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Accuracy": 0.5,
         "Persuasion": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.25,
+        "Persuasion": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1280,10 +1865,19 @@
   "Pinpoint": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Accuracy": 0.5,
         "Velocity": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.25,
+        "Velocity": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1291,10 +1885,19 @@
   "Quarterback": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Accuracy": 0.5,
         "Control": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Accuracy": 0.25,
+        "Control": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1302,10 +1905,19 @@
   "Peacebroker": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Persuasion": 0.5,
         "Defiance": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.25,
+        "Defiance": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1313,10 +1925,19 @@
   "Ambassador": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Persuasion": 0.5,
         "Guts": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.25,
+        "Guts": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1324,10 +1945,19 @@
   "Orator": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Persuasion": 0.5,
         "Velocity": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Persuasion": 0.25,
+        "Velocity": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1335,10 +1965,19 @@
   "Elvish": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intuition": 0.5,
         "Persuasion": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.25,
+        "Persuasion": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1346,10 +1985,19 @@
   "Feral Sense": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intuition": 0.5,
         "Stamina": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.25,
+        "Stamina": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1357,10 +2005,19 @@
   "Seer": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intuition": 0.5,
         "Presence": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intuition": 0.25,
+        "Presence": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1368,10 +2025,19 @@
   "Stonewall": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Defiance": 0.5,
         "Intuition": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.25,
+        "Intuition": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1379,10 +2045,19 @@
   "Anchor": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Defiance": 0.5,
         "Accuracy": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.25,
+        "Accuracy": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1390,10 +2065,19 @@
   "Wildcard": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Defiance": 0.5,
         "Deception": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Defiance": 0.25,
+        "Deception": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1401,10 +2085,19 @@
   "Arachnid": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intimidation": 0.5,
         "Vision": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.25,
+        "Vision": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1412,10 +2105,19 @@
   "Ogre": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intimidation": 0.5,
         "Wisdom": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.25,
+        "Wisdom": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1423,10 +2125,19 @@
   "Tusked": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Intimidation": 0.5,
         "Performance": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Intimidation": 0.25,
+        "Performance": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1434,10 +2145,19 @@
   "Bulwark": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Determination": 0.5,
         "Selflessness": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.25,
+        "Selflessness": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1445,10 +2165,19 @@
   "Ironclad": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Determination": 0.5,
         "Greed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Determination": 0.25,
+        "Greed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1456,10 +2185,19 @@
   "Metronome": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Discipline": 0.5,
         "Contact": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.25,
+        "Contact": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1467,10 +2205,19 @@
   "Snowperson": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Discipline": 0.5,
         "Aiming": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Discipline": 0.25,
+        "Aiming": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1478,10 +2225,19 @@
   "Kite": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Lift": 0.5,
         "Stealth": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.25,
+        "Stealth": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1489,10 +2245,19 @@
   "Caped": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Lift": 0.5,
         "Vision": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Lift": 0.25,
+        "Vision": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1500,10 +2265,19 @@
   "Granite": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Muscle": 0.5,
         "Determination": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.25,
+        "Determination": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1511,10 +2285,19 @@
   "Gorilla": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Muscle": 0.5,
         "Cunning": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.25,
+        "Cunning": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1522,10 +2305,19 @@
   "Titan": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Muscle": 0.5,
         "Contact": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 0.25,
+        "Contact": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1533,10 +2325,19 @@
   "Deadeye": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Aiming": 0.5,
         "Determination": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.25,
+        "Determination": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1544,10 +2345,19 @@
   "Eagle-eye": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Aiming": 0.5,
         "Cunning": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Aiming": 0.25,
+        "Cunning": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1555,10 +2365,19 @@
   "Mischievous": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Performance": 0.5,
         "Stealth": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.25,
+        "Stealth": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1566,10 +2385,19 @@
   "Playful": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Performance": 0.5,
         "Muscle": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Performance": 0.25,
+        "Muscle": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1577,10 +2405,19 @@
   "Horizon": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Vision": 0.5,
         "Wisdom": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.25,
+        "Wisdom": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1588,10 +2425,19 @@
   "Satellite": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Vision": 0.5,
         "Muscle": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Vision": 0.25,
+        "Muscle": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1599,10 +2445,19 @@
   "Grounded": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Contact": 0.5,
         "Lift": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.25,
+        "Lift": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1610,10 +2465,19 @@
   "Sweet Tooth": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Contact": 0.5,
         "Aiming": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": 0.25,
+        "Aiming": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1621,10 +2485,19 @@
   "Leaf": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Speed": 0.5,
         "Intimidation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.25,
+        "Intimidation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1632,10 +2505,19 @@
   "Marathoner": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Speed": 0.5,
         "Lift": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Speed": 0.25,
+        "Lift": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1643,10 +2525,19 @@
   "Analyst": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Wisdom": 0.5,
         "Selflessness": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.25,
+        "Selflessness": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1654,10 +2545,19 @@
   "Sage": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Wisdom": 0.5,
         "Vision": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Wisdom": 0.25,
+        "Vision": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1665,10 +2565,19 @@
   "Stargazer": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Insight": 0.5,
         "Discipline": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.25,
+        "Discipline": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1676,10 +2585,19 @@
   "Striker": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Insight": 0.5,
         "Lift": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.25,
+        "Lift": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1687,10 +2605,19 @@
   "Techie": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Insight": 0.5,
         "Intimidation": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Insight": 0.25,
+        "Intimidation": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1698,10 +2625,19 @@
   "Vampiric": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Cunning": 0.5,
         "Vision": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Cunning": 0.25,
+        "Vision": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1709,10 +2645,19 @@
   "Holey": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stealth": 0.5,
         "Greed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.25,
+        "Greed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1720,10 +2665,19 @@
   "Needle": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stealth": 0.5,
         "Aiming": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.25,
+        "Aiming": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1731,10 +2685,19 @@
   "Night Owl": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Stealth": 0.5,
         "Speed": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Stealth": 0.25,
+        "Speed": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1742,10 +2705,19 @@
   "Kind": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Selflessness": 0.5,
         "Discipline": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.25,
+        "Discipline": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1753,10 +2725,19 @@
   "Wingmate": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Selflessness": 0.5,
         "Lift": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Selflessness": 0.25,
+        "Lift": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1764,10 +2745,19 @@
   "Magnetic": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Greed": 0.5,
         "Performance": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.25,
+        "Performance": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1775,10 +2765,19 @@
   "Excavator": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Greed": 0.5,
         "Muscle": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.25,
+        "Muscle": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1786,10 +2785,19 @@
   "Treasure Map": [
     {
       "valid_from": "2026-01-11T02:00:00Z",
-      "valid_until": null,
+      "valid_until": "2026-04-30T05:00:00Z",
       "effects": {
         "Greed": 0.5,
         "Vision": -0.5
+      },
+      "bonus_type": "Multiplier"
+    },
+    {
+      "valid_from": "2026-04-30T05:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Greed": 0.25,
+        "Vision": -0.1
       },
       "bonus_type": "Multiplier"
     }
@@ -1821,8 +2829,8 @@
       "valid_from": "2025-06-09T11:00:00.000Z",
       "valid_until": null,
       "effects": {
-        "Muscle": 1.0,
-        "Presence": 1.0
+        "Muscle": 1,
+        "Presence": 1
       },
       "bonus_type": "FlatBonus"
     }
