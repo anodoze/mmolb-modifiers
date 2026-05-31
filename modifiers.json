@@ -2810,7 +2810,7 @@
         "Muscle": 0.25,
         "Presence": 0.25
       },
-      "bonus_type": "FlatBonus"
+      "bonus_type": "Flat"
     }
   ],
   "Celestial Infusion II": [
@@ -2821,7 +2821,7 @@
         "Muscle": 0.5,
         "Presence": 0.5
       },
-      "bonus_type": "FlatBonus"
+      "bonus_type": "Flat"
     }
   ],
   "Celestial Infusion III": [
@@ -2832,7 +2832,7 @@
         "Muscle": 1,
         "Presence": 1
       },
-      "bonus_type": "FlatBonus"
+      "bonus_type": "Flat"
     }
   ]
 }
