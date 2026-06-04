@@ -2805,7 +2805,7 @@
   "Corrupted": [
     {
       "valid_from": "2025-10-09T03:00:00Z",
-      "valid_until": "2026-01-11T02:00:00Z",
+      "valid_until": null,
       "effects": {
         "Aiming": 0.2,
         "Contact": 0.2,
@@ -2848,7 +2848,7 @@
   "Effloresced": [
     {
       "valid_from": "2025-11-25T08:00:00Z",
-      "valid_until": "2026-01-11T02:00:00Z",
+      "valid_until": null,
       "effects": {
         "Aiming": 0.2,
         "Contact": 0.2,
@@ -2923,7 +2923,7 @@
   ],
   "Unrelenting": [
     {
-      "valid_from": "2020-06-09T11:00:00.000Z",
+      "valid_from": "2025-08-18T12:00:00Z",
       "valid_until": null,
       "effects": {
         "Guts": 1,
