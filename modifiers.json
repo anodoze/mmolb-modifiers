@@ -2931,5 +2931,15 @@
       },
       "bonus_type": "Multiplier"
     }
+  ],
+  "Cowardly": [
+    {
+      "valid_from": "2020-06-09T11:00:00.000Z",
+      "valid_until": null,
+      "effects": {
+        "Contact": -0.5
+      },
+      "bonus_type": "Multiplier"
+    }
   ]
 }
