@@ -2840,7 +2840,8 @@
         "Rotation": 0.2,
         "Stamina": 0.2,
         "Stuff": 0.2,
-        "Velocity": 0.2
+        "Velocity": 0.2,
+        "Luck": 0.2
       },
       "bonus_type": "Multiplier"
     }
@@ -2883,7 +2884,8 @@
         "Rotation": 0.2,
         "Stamina": 0.2,
         "Stuff": 0.2,
-        "Velocity": 0.2
+        "Velocity": 0.2,
+        "Luck": 0.2
       },
       "bonus_type": "Multiplier"
     }
