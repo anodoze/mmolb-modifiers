@@ -2947,51 +2947,5 @@
       },
       "bonus_type": "Multiplier"
     }
-  ],
-  "Lesser Old I": [
-    {
-      "valid_from": "2026-06-25T00:12:44Z",
-      "valid_until": null,
-      "effects": {
-        "Aiming": -0.1,
-        "Contact": -0.1,
-        "Cunning": -0.1,
-        "Determination": -0.1,
-        "Discipline": -0.1,
-        "Insight": -0.1,
-        "Intimidation": -0.1,
-        "Lift": -0.1,
-        "Muscle": -0.1,
-        "Selflessness": -0.1,
-        "Vision": -0.1,
-        "Wisdom": -0.1,
-        "Greed": -0.1,
-        "Performance": -0.1,
-        "Speed": -0.1,
-        "Stealth": -0.1,
-        "Acrobatics": -0.1,
-        "Agility": -0.1,
-        "Arm": -0.1,
-        "Awareness": -0.1,
-        "Composure": -0.1,
-        "Dexterity": -0.1,
-        "Patience": -0.1,
-        "Reaction": -0.1,
-        "Accuracy": -0.1,
-        "Control": -0.1,
-        "Deception": -0.1,
-        "Defiance": -0.1,
-        "Guts": -0.1,
-        "Intuition": -0.1,
-        "Persuasion": -0.1,
-        "Presence": -0.1,
-        "Rotation": -0.1,
-        "Stamina": -0.1,
-        "Stuff": -0.1,
-        "Velocity": -0.1,
-        "Luck": -0.1
-      },
-      "bonus_type": "Multiplier"
-    }
   ]
 }
