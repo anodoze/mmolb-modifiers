@@ -2802,6 +2802,270 @@
       "bonus_type": "Multiplier"
     }
   ],
+  "Ballerina": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Acrobatics": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Gymnast": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Acrobatics": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Springy": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Acrobatics": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Elusive": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Agility": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Fencer": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Agility": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Nimble": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Agility": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Harpoon": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Arm": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Slinger": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Arm": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Tentacled": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Arm": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Sentry": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Awareness": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Surveyor": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Awareness": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Vigilant": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Awareness": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Penguin": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Composure": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Poised": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Composure": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Serene": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Composure": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Calligrapher": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Dexterity": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Juggler": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Dexterity": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Safecracker": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Dexterity": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Angler": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Patience": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Baker": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Patience": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Watchmaker": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Patience": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Alert": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Reaction": 0.25,
+        "Performance": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Gamer": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Reaction": 0.25,
+        "Muscle": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
+  "Goalkeeper": [
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Reaction": 0.25,
+        "Contact": -0.1
+      },
+      "bonus_type": "Multiplier"
+    }
+  ],
   "Corrupted": [
     {
       "valid_from": "2025-10-09T03:00:00Z",
@@ -2896,18 +3160,16 @@
   ],
   "Celestial Infusion": [
     {
-      "valid_from": "2025-06-09T11:00:00.000Z",
-      "valid_until": null,
+      "valid_from": "2025-06-09T11:00:00Z",
+      "valid_until": "2026-11-12T00:00:00Z",
       "effects": {
         "Muscle": 0.25,
         "Presence": 0.25
       },
       "bonus_type": "Flat"
-    }
-  ],
-  "Celestial Infusion II": [
+    },
     {
-      "valid_from": "2025-06-09T11:00:00.000Z",
+      "valid_from": "2026-11-12T00:00:00Z",
       "valid_until": null,
       "effects": {
         "Muscle": 0.5,
@@ -2916,13 +3178,42 @@
       "bonus_type": "Flat"
     }
   ],
-  "Celestial Infusion III": [
+  "Celestial Infusion II": [
     {
-      "valid_from": "2025-06-09T11:00:00.000Z",
+      "valid_from": "2025-06-09T11:00:00Z",
+      "valid_until": "2026-11-12T00:00:00Z",
+      "effects": {
+        "Muscle": 0.5,
+        "Presence": 0.5
+      },
+      "bonus_type": "Flat"
+    },
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
       "valid_until": null,
       "effects": {
         "Muscle": 1,
         "Presence": 1
+      },
+      "bonus_type": "Flat"
+    }
+  ],
+  "Celestial Infusion III": [
+    {
+      "valid_from": "2025-06-09T11:00:00Z",
+      "valid_until": "2026-11-12T00:00:00Z",
+      "effects": {
+        "Muscle": 1,
+        "Presence": 1
+      },
+      "bonus_type": "Flat"
+    },
+    {
+      "valid_from": "2026-11-12T00:00:00Z",
+      "valid_until": null,
+      "effects": {
+        "Muscle": 2,
+        "Presence": 2
       },
       "bonus_type": "Flat"
     }
